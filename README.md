@@ -1,5 +1,5 @@
 # Lexical Analysis
-###What is Lexical Analysis?
+### What is Lexical Analysis?
 Lexical analysis, also known as scanning or tokenization, is the first phase of the compilation process in programming language processing. It involves analyzing a sequence of characters in a source code file and converting them into a sequence of tokens. Tokens are the smallest meaningful units in a programming language, such as keywords, identifiers, operators, and literals.
 
 ### Purpose of Lexical Analysis
